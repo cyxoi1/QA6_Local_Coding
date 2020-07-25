@@ -77,4 +77,6 @@ class RegisterPage extends BasePage {
         return super.open('user/register');
     }
 
-}export default new RegisterPage();
+}
+
+export default new RegisterPage();
