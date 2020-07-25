@@ -11,4 +11,10 @@ const RegisterData = {
   phone: '1234567890',
 };
 
-export { dataRegisterPage, RegisterData };
+const loginData = {
+  email: 'kuk@pasv4.us',
+  password: '123123',
+  newPassword: '123321'
+}
+
+export { dataRegisterPage, RegisterData, loginData };
