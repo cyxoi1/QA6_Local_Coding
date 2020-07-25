@@ -7,6 +7,7 @@ const RegisterData = {
   lastName: 'User',
   email,
   password: '123123',
+  newPassword: '123321',
   phone: '1234567890',
 };
 
